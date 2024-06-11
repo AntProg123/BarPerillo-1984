@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bar Perillo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="header">
+    <div id="headerContent">
+      <a href="/" id="headerLogo">
+        <img src="https://barperillo1984.webnode.it/_files/200000054-04fe14f9fb/400/3.jpg" alt="Bar Perillo" title="Bar Perillo">
+      </a>
+      <div id="menu">
+        <a href="/">Home</a>
+        <a href="/ristorante/">Ristorante</a>
+        <a href="/contatti/">Contatti</a>
+      </div>
+    </div>
+  </div>
+  
+  <div id="content">
+    <h1>Benvenuti al Bar Perillo</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut ante sed velit imperdiet aliquam nec ac quam. Ut in mauris condimentum, vehicula metus ut, bibendum metus. Suspendisse tempor libero justo, in interdum lacus gravida vel. Nam id justo vitae nulla vehicula posuere et at tellus.</p>
+    <p>Curabitur lobortis lacus a eros dapibus, in commodo urna pretium. Sed volutpat massa nec libero consequat vestibulum. In vitae ligula quis nisl convallis volutpat. Mauris lacinia in erat nec convallis.</p>
+  </div>
+  
+  <div id="footer">
+    <div id="footerContent">
+      <p>© 2024 Bar Perillo</p>
+    </div>
+  </div>
+</body>
+</html>
